@@ -50,7 +50,6 @@ class _MyAppState extends State<MyApp> {
                       myNumber--;
                       btnColor = Colors.grey;
                     } else {
-                      btnColor = Colors.red;
                       myNumber++;
                     }
                   });
